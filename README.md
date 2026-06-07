@@ -9,3 +9,23 @@
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/Networking-00599C?style=for-the-badge&logo=cisco&logoColor=white" />
 </div>
+
+State:
+
+````bash
+Still alone!
+````
+
+To Talk:
+
+````text
+{
+  "Education" : ["ApTech Learning", "Hong Bang University - HBU"],
+  "Languages": ["Java", "Typescript", "C++++"],
+  "Framework" : ["Spring ecosystem", "Dotnet", "NextJs"],
+  "Upgrading" : ["Full Docker", "Networking", "Security", "OS", "Go"],
+  "Pros" : ["Handsome", "Six packs", "Private motorbike", "Alone"],
+  "Weakness" : ["Too many pros"],
+  "Read" : {..}
+}
+````
