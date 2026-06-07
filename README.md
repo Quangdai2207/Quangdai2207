@@ -19,15 +19,17 @@ Still alone
 To Talk:
 
 ````text
-{
-  "Education" : ["ApTech Learning", "Hong Bang University - HBU"],
-  "Languages": ["Java", "Typescript", "C#"],
-  "Framework" : ["Spring ecosystem", "Dotnet", "NextJs"],
-  "Upgrading" : ["Full Docker", "Networking", "Security", "OS", "Go"],
-},
-{
-  "Pros" : ["Handsome", "Six packs", "Private motorbike", "Alone"],
-  "Weakness" : ["Too many pros"],
-  "Read" : {...}
-}
+[
+    {
+      "Education" : ["ApTech Learning", "Hong Bang University - HBU"],
+      "Languages": ["Java", "Typescript", "C#"],
+      "Framework" : ["Spring ecosystem", "Dotnet", "NextJs"],
+      "Upgrading" : ["Full Docker", "Networking", "Security", "OS", "Go"],
+    },
+    {
+      "Pros" : ["Handsome", "Six packs", "Private motorbike", "Alone"],
+      "Weakness" : ["Too many pros"],
+      "Read" : {...}
+    }
+]
 ````
