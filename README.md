@@ -35,3 +35,7 @@ To Talk:
     }
 ]
 ````
+
+````zsh
+read CV --inspect | grep -i email && inbox   
+````
