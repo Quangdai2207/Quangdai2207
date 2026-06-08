@@ -29,13 +29,22 @@ To Talk:
       "Upgrading" : ["Full Docker", "Networking", "Security", "OS", "Go"],
     },
     {
-      "Pros" : ["Handsome", "Six packs", "Private motorbike", "Alone"],
+      "Pros" : ["Handsome", "Six packs", "Cools boy", "Confident", "Alone"],
       "Weakness" : ["Too many pros"],
       "Read" : {...}
     }
 ]
 ````
 
+Read More
+
 ````zsh
-read CV --inspect | grep -i email && inbox   
+open -a "google chrome" "https://itviec.com/xem-truoc-cv"
+open -a "google chrome" "https://portfolio-black-nine-cfinu410n5.vercel.app/"
 ````
+
+````zsh
+read myCV --all --inspect && [[ $isReady ]] && inbox 
+````
+
+
