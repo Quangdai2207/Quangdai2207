@@ -39,7 +39,6 @@ To Talk:
 Read More
 
 ````zsh
-open -a "google chrome" "https://itviec.com/xem-truoc-cv"
 open -a "google chrome" "https://portfolio-black-nine-cfinu410n5.vercel.app/"
 ````
 
