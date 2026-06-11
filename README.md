@@ -13,37 +13,34 @@
 ---
 
 State:
-
-````bash
-Still alone
-````
+> Still Alone
 
 To Talk:
 
-````text
+````json
 [
     {
       "Education" : ["ApTech Learning", "Hong Bang University - HBU"],
       "Languages": ["Java", "Typescript", "C#"],
-      "Framework" : ["Spring ecosystem", "Dotnet", "NextJs"],
+      "Frameworks" : ["Spring ecosystem", "Dotnet", "NextJs"],
       "Upgrading" : ["Full Docker", "Networking", "Security", "OS", "Go"],
     },
     {
       "Pros" : ["Handsome", "Six packs", "Cools boy", "Confident", "Alone"],
       "Weakness" : ["Too many pros"],
-      "Read" : {...}
+      "Read" : []
     }
 ]
 ````
 
-Read More
+Read More:
 
 ````zsh
 open -a "google chrome" "https://portfolio-black-nine-cfinu410n5.vercel.app/"
 ````
 
-````zsh
-read myCV --all --inspect && [[ $isReady ]] && inbox 
+````shell
+read myCV --all --inspect && [[ $isReady ]] && contact 
 ````
 
 
