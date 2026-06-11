@@ -23,7 +23,7 @@ To Talk:
       "Education" : ["ApTech Learning", "Hong Bang University - HBU"],
       "Languages": ["Java", "Typescript", "C#"],
       "Frameworks" : ["Spring ecosystem", "Dotnet", "NextJs"],
-      "Upgrading" : ["Full Docker", "Networking", "Security", "OS", "Go"],
+      "Upgrading" : ["Full Docker", "Networking", "Security", "OS", "Go", "CI/CD"]
     },
     {
       "Pros" : ["Handsome", "Six packs", "Cools boy", "Confident", "Alone"],
