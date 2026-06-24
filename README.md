@@ -3,7 +3,7 @@
 <div align="center">
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Ho Chi Minh-red?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=Quangdai2207&label=Profile%20Views&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Quangdai2207&label=Viewer&style=for-the-badge&color=8A2BE2" />
   <img src="https://img.shields.io/badge/Focus-Java%20%2B%20System%20-blue?style=for-the-badge" />
 </p>
 </div>
@@ -28,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40">
 
-  <br/><br/>
+<br/><br/>
 
   <p align="center">
     <img src="https://streak-stats.demolab.com?user=Quangdai2207&theme=dracula&border_radius=10px&card_width=800"/>
@@ -36,9 +36,3 @@
 </div>
 
 ---
-
-Read More:
-
-```Shell
-open -a "google chrome" "https://portfolio-black-nine-cfinu410n5.vercel.app/"
-```
