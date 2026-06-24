@@ -1,54 +1,42 @@
 ![Doit](./doit.png)
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Networking-00599C?style=for-the-badge&logo=cisco&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Ho Chi Minh-red?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Quangdai2207&label=Profile%20Views&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Java%20%2B%20System%20-blue?style=for-the-badge" />
+</p>
 </div>
 
 ---
 
-State:
+### Stacks & Stats
 
-> Still Alone
+  <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40">
 
-To Talk:
+  <p align="center">
+      <img src="https://streak-stats.demolab.com?user=Quangdai2207&theme=dracula&border_radius=10px&card_width=800"/>
+    </p>
+  </div>
 
-```json
-[
-  {
-    "Education": ["ApTech Learning", "Hong Bang International University - HIU"],
-    "Languages": ["Java", "Typescript", "C#", "Javascript"],
-    "Frameworks": ["Spring ecosystem", "Dotnet", "NextJs"],
-    "Upgrading": [
-      "Full Docker",
-      "Networking",
-      "Security",
-      "OS",”
-      "Go",
-      "CI/CD",
-      "Distributed system",
-      "Kubernetes"
-    ],
-     "Read": [...]
-  },
-  {
-    "Focusing": ["Java developer", "System Architecture", "System programming"]
-  },
-  {
-    "Pros": ["Handsome", "Six packs", "Cools boy", "Confident", "Alone"],
-    "Weakness": ["Too many pros"]
-  },
-]
-```
+---
 
 Read More:
 
-```bash
+```Shell
 open -a "google chrome" "https://portfolio-black-nine-cfinu410n5.vercel.app/"
 ```
