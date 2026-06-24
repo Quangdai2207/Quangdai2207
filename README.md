@@ -28,6 +28,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40">
 
+  <br />
   <p align="center">
       <img src="https://streak-stats.demolab.com?user=Quangdai2207&theme=dracula&border_radius=10px&card_width=800"/>
     </p>
